@@ -81,3 +81,34 @@
 .pr-13{
 	padding-right: 13%;
 }
+
+.mt-10{
+	margin-top: 10%;
+}
+
+.mt-5{
+	margin-top: 5%;
+}
+
+.button1{
+ height: 30px;
+ width:100px;
+ background-color: gray;
+ border-radius: 10%;
+}
+
+.mb-5{
+	margin-bottom: 15%;
+}
+
+.mb{
+	margin-bottom: 5%;
+}
+
+.pl-30{
+	padding-left: 30%;
+}
+
+.ml-5{
+	margin-left: 5%;
+}
