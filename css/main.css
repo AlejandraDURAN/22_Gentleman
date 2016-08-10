@@ -1,5 +1,5 @@
 .back1{
- background-color: black;
+ background-color:#2E2E2E;
 }
 
 .back2{
@@ -12,9 +12,7 @@
 
 }
 
-.back4{
-	background-color: black;
-}
+
 
 .icon{
 	height:20px; 
@@ -42,7 +40,15 @@
 }
 
 .deco{
-	color:gray;
+	width: 90%;
+	margin-left: 5%;
+	height:3px; 
+   background-color:#A4A4A4; 
+   border:none;
+}
+
+.deco2{
+	border: 1px dashed #A4A4A4; 
 }
 
 .pl-7{
@@ -80,4 +86,49 @@
 
 .pr-13{
 	padding-right: 13%;
+}
+
+.mt-10{
+	margin-top: 10%;
+}
+
+.mt-5{
+	margin-top: 5%;
+}
+
+.button1{
+ height: 30px;
+ width:100px;
+ background-color: gray;
+ border-radius: 10%;
+}
+
+.mb-5{
+	margin-bottom: 15%;
+}
+
+.mb{
+	margin-bottom: 5%;
+}
+
+.gent{
+	font-family: Verdana;
+	font-size: 15px;
+	
+
+}
+
+.top{
+	border-radius: 100%;
+	height: 70px;
+
+}
+
+
+.pl-30{
+	padding-left: 30%;
+}
+
+.ml-5{
+	margin-left: 5%;
 }
